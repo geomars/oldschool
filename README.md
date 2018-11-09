@@ -12,7 +12,7 @@ This repository contain collections of self-work for [mlcourse.ai](https://mlcou
 # Contributor (in Alphabetical order):
 
  * Georgia Martha Sari (https://github.com/geomars)
- * Maryam Ahsannunisa (??????)
+ * Maryam Ahsannunisa (https://github.com/ahsanunnisa)
  
 # Assignments 
 
